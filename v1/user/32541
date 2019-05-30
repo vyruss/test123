@@ -1,0 +1,15 @@
+[
+    {
+        "created_at": "2018-06-18T12:36:36Z",
+        "entitlement_id": 190018329,
+        "metadata": {
+            "availability": 0.9
+        },
+        "service": {
+            "name": "mspf",
+            "scope": "world",
+            "uri": "ftp://msp-m"
+        },
+        "updated_at": null
+    }
+]
