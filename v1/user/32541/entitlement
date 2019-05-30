@@ -3,12 +3,12 @@
         "created_at": "2018-06-18T12:36:36Z",
         "entitlement_id": 927659306,
         "metadata": { 
-            "availability": 0.77
+            "availability": 0.79
         },
         "service": {
-            "name": "rmm",
-            "scope": "us",
-            "uri": "http://rmm"
+            "name": "rms",
+            "scope": "eu",
+            "uri": "http://rms"
         },
         "updated_at": null
     },
@@ -19,9 +19,9 @@
             "availability": 0.66
         },
         "service": {
-            "name": "mspm",
+            "name": "msps",
             "scope": "world",
-            "uri": "ftp://msp-m"
+            "uri": "ftp://msps"
         },
         "updated_at": null
     },
@@ -31,9 +31,9 @@
         "metadata": {
         },
         "service": {
-            "name": "mspm",
-            "scope": "world",
-            "uri": "ftp://msp-m"
+            "name": "ffpm",
+            "scope": "us",
+            "uri": "ftp://ffpm"
         },
         "updated_at": null
     }
